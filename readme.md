@@ -8,7 +8,7 @@ Work within the virtual environment:
 
 ```pip3 install <package_name>```
 
-```python calculate_retention.py```
+```python3 calculate_retention.py```
 
 Deactivate the virtual environment:
 
